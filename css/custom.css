@@ -103,3 +103,7 @@
 .content-slider .owl-item.animated {
 	visibility: visible;
 }
+
+.home-header {
+	background-image: url(../img/headers/swimming-pool-builder.jpg);
+}
